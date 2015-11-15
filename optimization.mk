@@ -23,9 +23,9 @@ export ENABLE_SANITIZE := true
 endif 
 
 # Toolchain and other
-export TARGET_NDK_GCC_VERSION := 4.8
-export TARGET_GCC_VERSION_EXP := 4.8
-export TARGET_GCC_VERSION := 4.8
+export TARGET_NDK_GCC_VERSION := 4.9
+export TARGET_GCC_VERSION_EXP := 4.9
+export TARGET_GCC_VERSION := 4.9
 export TARGET_GCC_VERSION_KERNEL := 4.9
 
 # Stuff
